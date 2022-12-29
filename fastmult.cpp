@@ -3,7 +3,6 @@
  * Author      : John Graham
  * Date        : 11/10/22
  * Description : Karatsuba algorithm in C++
- * Pledge      : I pledge my honor that I have abided by the Stevens Honor System.
  ******************************************************************************/
 
 #include <iostream>
